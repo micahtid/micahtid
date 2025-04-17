@@ -1,6 +1,4 @@
-# 🌊 Micah  
-
-## 💙 About Me  
+## 🌊 About Me 
 - A-Level Student & Full-Stack Developer  
 - Open to collaboration on exciting projects  
 - Currently self-studying Machine Learning  
