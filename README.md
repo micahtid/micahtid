@@ -1,7 +1,5 @@
 # 🌊 Micah  
 
-<hr />
-
 ## 💙 About Me  
 - A-Level Student & Full-Stack Developer  
 - Open to collaboration on exciting projects  
@@ -18,5 +16,4 @@
 ### Other Languages & Tools  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  
 
-## 👀 Profile Views  
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Not-Micah)
